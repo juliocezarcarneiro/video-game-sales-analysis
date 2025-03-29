@@ -80,10 +80,6 @@ The project will contain the following components once completed:
 * Excel Features to Demonstrate
     * Conditional Formatting: Highlight top 10 best-selling games globally or by region.
 
-    * VLOOKUP/INDEX-MATCH: Fetch sales data dynamically based on game name input.
-
-    * Pivot Chart with Slicers: Filter data interactively by genre, platform, and publisher.
-
 ### 4. Future Project Goals
 
 * Automate part of the analysis with Excel Macros.
